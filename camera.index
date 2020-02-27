@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>ABHI's Camera</title>
+<meta name="viewport" content="width=device-width">
+<link rel="stylesheet" type="text/css" href="css/index.css" />
+</head>
+<body>
+<button id="takePicture">Take Picture</button>
+<button id="usePicture">Use Picture</button>
+<img id="myImage">
+<script src="cordova.js"></script>
+<script src="js/index.js"></script>
+</body>
+</html>
+
+
